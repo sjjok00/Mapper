@@ -62,7 +62,7 @@
         <module>extra</module>
         <module>spring</module>
         <!--为了可以在 jdk6,7上进行测试，这里排除 weekend-->
-        <!--<module>weekend</module>-->
+        <module>weekend</module>
         <module>generator</module>
         <module>spring-boot-starter</module>
     </modules>
